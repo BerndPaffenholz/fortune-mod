@@ -5,3 +5,6 @@ https://github.com/shlomif/fortune-mod .
 
 The master-Branch is a copy of shlomif/fortune-mod. The main-Branch is
 stripped down to the datfiles.
+
+This repository is the data source for
+https://github.com/BerndPaffenholz/fortuneFastAPI[fortuneFastAPI].
